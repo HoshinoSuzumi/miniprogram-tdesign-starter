@@ -1,0 +1,20 @@
+{
+  "name": "miniprogram-tdesign-starter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "starter",
+    "tdesign"
+  ],
+  "author": "HoshinoSuzumi",
+  "license": "MIT",
+  "description": "A starter template for WeChat miniprogram with TDesign framework",
+  "dependencies": {
+    "tdesign-miniprogram": "^1.2.2"
+  }
+}
